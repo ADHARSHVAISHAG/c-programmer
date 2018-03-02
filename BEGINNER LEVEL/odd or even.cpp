@@ -14,5 +14,5 @@ if (a%2==0)
 else 
   {
     cout<<"the number is odd";
-  
+}
 }
